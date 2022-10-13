@@ -2,7 +2,7 @@
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 ### OBS: 
-#### O intuito da atividade é somemnte colocar em pratica as tags aprendidas e um pouco de css, logo eu não me preocupei em deixar a página responsiva.
+#### O intuito da atividade é somemnte colocar em prática as tags aprendidas e um pouco de css, logo eu não me preocupei em deixar a página responsiva.
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
 - Formulários
