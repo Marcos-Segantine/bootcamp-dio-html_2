@@ -1,0 +1,24 @@
+*,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url('../img/Bg-green-form.png');
+}
+
+/* BLOBAL STYLES */
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+
+/* FINAL BLOBAL STYLES */
